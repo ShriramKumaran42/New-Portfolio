@@ -1,0 +1,173 @@
+=============== About Me ===============
+I'm a Front-end Developer and Web Designer
+
+I am an enthusiastic front end developer with an interest in creating scalable and responsive web applications.<br><br>With hands-on experience on front-end technologies like React.js, HTML, CSS, and Javascript as well as back-end technologies like JAVA and MySQL
+
+I am an passionate and adaptable student with a wide variety of interests and a strong drive to learn and grow. Looking for an opportunity to apply knowledge and gain practical experience. To succeed in an environment of growth and excellence. I am a Full stack developer with hands on experience on React Js, HTML, CSS, Java, Javascript, Tailwind CSS, Framer Motion and MySql. I am waiting for an opportunity to earn a job that provides me with job satisfaction, to upgrade my knowledge and skills, and to achieve personal as well as organizational goals.
+
+=============== My Resume ===============
+.education
+----------------
+SSLC - CBSE
+Jawahar Vidyalaya Senior Secondary School
+2015 - 2016
+
+HSC - Computer Science - State Board
+Jawahar Higher Secondary School
+2017 - 2018
+
+Bachelor of Computer Applications - BCA
+SRM Institute of Science and Technology
+2018 - 2021
+
+Master of Computer Applications - MCA
+Anna University, College of Engineering, Guindy
+2021 - 2023
+
+.experience
+----------------
+Captcha solving application
+Deep Learning
+2018
+
+Student data management and data retrieval system
+Web Development - MERN Stack
+2023
+
+Portfolio Website
+Front end Development
+2024
+
+.personal-skills
+----------------
+Front-End Developer
+
+HTML
+Advanced
+
+CSS
+Advanced
+
+JavaScript
+Advanced
+
+React
+Intermediate
+
+
+
+Back-End Developer
+
+
+
+JAVA
+Basic
+
+MySQL
+Intermediate
+
+Node JS
+Basic
+
+
+=============== Services ===============
+Web Design
+
+With expertise in developing responsive, user-friendly interfaces and optimizing web performance, enabling me to create visually
+appealing and functional interface prototypes and mockups, seamlessly blending creativity with functionality in my work.
+
+Design & build a custom websites.
+Responsive Website Design.
+Search Engine Optimization (SEO).
+Website Hosting.
+Website Maintenance and Support.
+
+Graphic Design
+
+Skilled in graphic design tools such as Adobe
+Photoshop, Illustrator, After Effects, and Figma, blending technical expertise with creative design with a keen eye for detail
+and design aesthetics with color theory and visual hierarchy. 
+
+Logos and branding.
+Website/blog design.
+Photoshop design.
+Presentation Design.
+Print design.
+
+Web Development
+
+Front end developer proficient in HTML, CSS, JavaScript, Java, and modern frameworks like React.js, with expertise in
+creating dynamic, user-focused digital solutions with responsive, user-friendly web applications and software development
+lifecycle, programming to deliver high-quality, scalable software solutions. My experience with Git and GitHub ensures efficient version
+control and seamless workflow integration.
+
+
+Build Websites.
+Design wireframes.
+Build prototype.
+Tech Stack.
+HTML, CSS, Javascript.
+ReactJS.
+Node Js.
+WEBPACK.
+APIs.
+
+=============== Portfolio ===============
+Web Design
+Dynamic
+
+Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Placeat ipsam quod odio ad, quibusdam consectetur architecto magni tenetur vero at aspernatur possimus fuga nostrum eligendi, earum quisquam dolor. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem inventore earum corporis est quo praesentium beatae laudantium nisi reiciendis eius, voluptate tenetur ullam autem dignissimos, nulla minus repellat, maiores sunt.
+
+UX/UI Design
+Submarine
+
+Templates
+Seven Studio
+
+Photoshop
+Raven Studio
+
+Web Design
+Dynamic
+
+Templates
+Seven Studio
+
+UX/UI Design
+Submarine
+
+Web Design
+Grid Studio
+
+=============== Testimonials ===============
+Aria Collins
+Marketing Manager
+Hi, I’m Aria Collins and I am designer & developer who dream making the world better place by products. I am also very active for international clients.
+
+Cillian Metcalfe
+Graphic Designer
+This is outstanding work. Everything I needed to do has been done by the makers. I really like this template and more importantly my clients are blown away by it.
+
+Kianna Baird
+App Developer
+These people really know what they are doing! Great customer support availability and supperb kindness. I am very happy that I've purchased this liscense!!!
+
+=============== Contact Me ===============
+E-mail
+shriramkumaran142000@gmail.com
+
+Whatsapp
++91 9962440184
+
+Messanger
+shriramkumaran42
+
+.contact-form
+Let’s work together.
+
+Please fill out the form on this section to contact with me. Or call between 9:00 a.m. and 8:00 p.m. IST.
+
+=============== Footer ===============
+© All rights reserved by shriramkumaran
