@@ -828,6 +828,7 @@ body{
 
 .avatar-info{
    position: relative;
+   max-width: 550px;
 }
 
 .avatar-info .text-content{
@@ -912,6 +913,7 @@ body{
    font-size: var(--base-font-size);
    font-weight: var(--font-semi-bold);
    margin-bottom: 35px;
+   text-align: justify;
 }
 
 .home-scroll-btn{
@@ -2579,7 +2581,7 @@ body{
    }
 
    .home-social .social-icons li a{
-      font-size: var(--h2-font-size);
+      font-size: var(--h3-font-size);
    }
 
    .home-scroll-btn {
