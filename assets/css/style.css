@@ -2520,6 +2520,17 @@ body{
       right: 20px;
    }
 
+   /* .home-social .social-icons {
+      display: flex;
+      flex-direction: row;
+      gap: 25px;
+      margin-top: 25px;
+   }
+
+   .home-social .social-icons li a{
+      font-size: var(--h3-font-size);
+   } */
+
    
 }
 
@@ -2578,10 +2589,11 @@ body{
       flex-direction: row;
       gap: 25px;
       margin-top: 25px;
+      margin-bottom: 25px;
    }
 
    .home-social .social-icons li a{
-      font-size: var(--h3-font-size);
+      font-size: var(--h2-font-size);
    }
 
    .home-scroll-btn {
