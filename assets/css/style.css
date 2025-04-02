@@ -2575,11 +2575,11 @@ body{
       display: flex;
       flex-direction: row;
       gap: 25px;
-      margin-top: 35px;
+      margin-top: 25px;
    }
 
    .home-social .social-icons li a{
-      font-size: var(--h1-font-size);
+      font-size: var(--h2-font-size);
    }
 
    .home-scroll-btn {
