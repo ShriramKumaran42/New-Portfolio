@@ -2325,7 +2325,10 @@ body{
 
    .avatar-info .text-content {
       align-items: center;
+      margin-top: 100px;
    }
+
+   
 
    /* .avatar-info .my-name {
       min-width: none;
@@ -2750,5 +2753,25 @@ body{
 
    .to-top-btn {
       display: none;
+   }
+
+   #footer-logo{
+      font-size: large;
+   }
+
+   #section-title-01 {
+      font-size: 3.5rem;
+      font-weight: 800;
+      margin-bottom: 2rem;
+      background: linear-gradient(to top, transparent 0%, var(--color-01) 70%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      opacity: .1;
+   }
+
+   #section-title-02{
+      font-size: 1.5rem;
+      font-weight: 700;
+      transform: translateY(-80px);
    }
 }
