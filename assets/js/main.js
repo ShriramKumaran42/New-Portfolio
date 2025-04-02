@@ -428,13 +428,13 @@ ScrollReveal().reveal('.avatar-info, .section-title', { delay: 300, origin: 'top
 ScrollReveal().reveal('.home-social, .home-scroll-btn, .copy-right', { delay: 700, origin: 'bottom' });
 ScrollReveal().reveal('.about-img', { delay: 700, origin: 'left' });
 ScrollReveal().reveal('.about-info, .shri-footer .shri-logo', { delay: 700, origin: 'right' });
-ScrollReveal().reveal('.pro-card, .about-button, .shri-main-btn, .resume-tabs, .tab-btn', { delay: 500, origin: 'bottom', interval: 300 });
+ScrollReveal().reveal('.pro-card, .about-button, .shri-main-btn, .resume-tabs, .tab-btn', { delay: 500, origin: 'bottom', interval: 100 });
 ScrollReveal().reveal('.portfolio-tabs .tab-btn', { delay: 300, origin: 'left', interval: 300 });
 ScrollReveal().reveal('.resume-tabs, .tab-btn', { delay: 500, origin: 'left', interval: 700 });
 ScrollReveal().reveal('#resume .section-content', { delay: 700, origin: 'bottom' });
 ScrollReveal().reveal('.skills-tabs, .tabs-btns', { delay: 300, origin: 'left', interval: 500 });
 ScrollReveal().reveal('#skills .section-content', { delay: 900, origin: 'bottom' });
-ScrollReveal().reveal('.service-card, .portfolio-card, .contact-item, .contact-social-links li, .footer-menu .menu-item', { delay: 300, origin: 'bottom', interval: 300 });
+ScrollReveal().reveal('.service-card, .portfolio-card, .footer-menu .menu-item', { delay: 300, origin: 'bottom', interval: 300 });
 ScrollReveal().reveal('shri-client-swiper, .contact-form-body', { delay: 300, origin: 'left'});
-ScrollReveal().reveal('.contact-info h3', { delay: 100, origin: 'bottom', interval: 300});
+ScrollReveal().reveal('.contact-info h3, .contact-item, .contact-social-links li', { delay: 100, origin: 'bottom'});
 

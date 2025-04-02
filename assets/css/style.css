@@ -597,7 +597,7 @@ body{
 }
 
 .bottom-nav .menu li:hover a i{
-   color: var(--white-color);
+   color: #000000;
    background: var(--hover-color);
 }
 
