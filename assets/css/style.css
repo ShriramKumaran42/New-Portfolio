@@ -2590,12 +2590,12 @@ body{
       display: flex;
       flex-direction: row;
       gap: 25px;
-      margin-top: 25px;
-      margin-bottom: 25px;
+      margin-top: 15px;
+      /* margin-bottom: 25px; */
    }
 
    .home-social .social-icons li a{
-      font-size: var(--h2-font-size);
+      font-size: var(--h3-font-size);
    }
 
    .home-scroll-btn {
