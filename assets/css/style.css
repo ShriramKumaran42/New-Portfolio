@@ -2193,6 +2193,7 @@ body{
    font-style: italic;
    font-weight: bold;
    font-size: xx-large;
+   color: ivory;
 }
 
 .shri-footer .shri-container .inner{
@@ -2220,6 +2221,7 @@ body{
    padding: 3px 12px;
    border-radius: 15px;
    transition: .3s;
+   color: ivory;
 }
 
 .footer-menu .menu-item a:hover{
@@ -2770,7 +2772,7 @@ body{
    }
 
    #footer-logo{
-      font-size: large;
+      font-size: medium;
    }
 
    #section-title-01 {
@@ -2788,4 +2790,72 @@ body{
       font-weight: 700;
       transform: translateY(-80px);
    }
+
+   .avatar-info .my-name{
+      /* min-width: 500px; */
+      font-family: "Noto Sans Tamil", sans-serif;
+      font-size: var(--h2-font-size);
+      font-weight: var(--font-bold);
+   }
+
+   .my-name span{
+      position: relative;
+   }
+
+   .my-name span::before{
+      content: "ஸ்ரீராம் குமாரன்";
+      /* color: var(--primary-color); */
+      background: linear-gradient(45deg, hsl(0, 85%, 55%), hsl(286, 73%, 54%));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: words 20s infinite;
+   }
+
+   .my-name span::after{
+      content: "";
+      position: absolute;
+      width: calc(100% + 8px);
+      height: 100%;
+      background-color: var(--body-color);
+      border-left: 2px solid var(--primary-color);
+      right: -8px;
+      animation: cursor .8s infinite, typing 20s steps(14) infinite;
+   }
+
+   @keyframes cursor {
+      to{
+         border-left: 2px solid #ff7f5000;
+      }
+   }
+
+   @keyframes words {
+      0%,20%{
+         content: "SHRIRAMKUMARAN";
+         font-size: var(--h3-font-size);
+      }
+      21%,40%{
+         content: "ஸ்ரீராம் குமாரன்";
+      }
+      41%,60%{
+         content: "SHRIRAMKUMARAN";
+         font-size: var(--h3-font-size);
+      }
+      61%,80%{
+         content: "ஸ்ரீராம் குமாரன்";
+      }
+      81%,100%{
+         content: "SHRIRAMKUMARAN";
+         font-size: var(--h3-font-size);
+      }
+   }
+
+   @keyframes typing {
+      10%,15%,30%,35%,50%,55%,70%,75%,90%,95%{
+         width: 0;
+      }
+      5%,20%,25%,40%,45%,60%,65%,80%,85%{
+         width: calc(100% + 8px);
+      }
+   }
+
 }
