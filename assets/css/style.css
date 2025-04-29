@@ -2319,6 +2319,11 @@ body{
       display: block;
    }
 
+   /* .hire-btns{
+      padding: 10px;
+      margin-bottom: 35px;
+   } */
+
    .avatar-container .hire-btn-02 {
       display: none;
    }
@@ -2330,6 +2335,13 @@ body{
    .avatar-info .text-content {
       align-items: center;
       margin-top: 100px;
+   }
+   .home-scroll-btn{
+      margin-top: 180px;
+   }
+
+   .home-social .social-icons{
+      margin-top: 180px;
    }
 
    
@@ -2592,6 +2604,7 @@ body{
       gap: 25px;
       margin-top: 15px;
       margin-bottom: 30px;
+      padding-bottom: 50px;
    }
 
    .home-social .social-icons li a{
@@ -2610,8 +2623,9 @@ body{
    .avatar-img {
       width: 85%;
       height: fit-content;
-      padding-bottom: 94%;
+      padding-bottom: 90%;
    }
+   
 
    .bottom-nav {
       width: 100%;
