@@ -33,7 +33,7 @@
    --color-04: #CBB8A9; /* light-graygray to dark-gray */
    --color-05: hsl(var(--hue) 20% 20%); /* dark to primary */
 
-   --body-color: hsl(0, 65%, 13%); /* dark to white */
+   --body-color: radial-gradient(circle at bottom right, hsl(0, 55%, 12%) 0%, hsl(0, 45%, 7%) 40%, hsl(0, 92%, 10%) 100%); /* dark to white */
    /* --body-color: #2f3542; */
    --hover-color: #EAE0D5;
 
@@ -155,7 +155,7 @@
 
    .contact-form-body form .input-group input,
    .contact-form-body form .input-group textarea{
-      color: rgba(234, 224, 213, 0.6);
+      color: rgba(20, 20, 20, 0.6);
       background: hsl(45, 50%, 94%);
    }
 
@@ -598,7 +598,7 @@ body{
 
 .bottom-nav .menu li:hover a i{
    color: #000000;
-   background: var(--hover-color);
+   background: #c4874a;
 }
 
 .bottom-nav .menu .current i{
@@ -814,8 +814,12 @@ body{
 }
 
 #twitter:hover {
-   color: #000000;
+   color: #00aaff;
 }
+#behance:hover {
+   color: #2a5af8;
+}
+
 
 #github:hover {
    color: #ac2fe1;
@@ -854,15 +858,15 @@ body{
 }
 
 .my-name span::before{
-   content: "ஸ்ரீராம் குமாரன்";
+   content: "S H R I R A M K U M A R A N";
    /* color: var(--primary-color); */
    background: linear-gradient(45deg, hsl(0, 85%, 55%), hsl(286, 73%, 54%));
    -webkit-background-clip: text;
    -webkit-text-fill-color: transparent;
-   animation: words 20s infinite;
+   /* animation: words 20s infinite; */
 }
 
-.my-name span::after{
+/* .my-name span::after{
    content: "";
    position: absolute;
    width: calc(100% + 8px);
@@ -907,7 +911,7 @@ body{
    5%,20%,25%,40%,45%,60%,65%,80%,85%{
       width: calc(100% + 8px);
    }
-}
+} */
 
 .avatar-info .what-i-do{
    font-size: var(--base-font-size);
@@ -2154,6 +2158,10 @@ body{
    color: #000000;
 }
 
+#behance-2 {
+   color: #174dff;
+}
+
 #github-2 {
    color: white;
 }
@@ -2164,6 +2172,11 @@ body{
 }
 
 #twitter-2:hover {
+   font-size: 3rem;
+   transition: .3s;
+}
+
+#behance-2:hover {
    font-size: 3rem;
    transition: .3s;
 }
@@ -2221,7 +2234,7 @@ body{
    padding: 3px 12px;
    border-radius: 15px;
    transition: .3s;
-   color: ivory;
+   color: rgb(180, 180, 175);
 }
 
 .footer-menu .menu-item a:hover{
@@ -2812,13 +2825,13 @@ body{
       font-weight: var(--font-bold);
    }
 
-   .my-name span{
+   /* .my-name span{
       position: relative;
    }
 
    .my-name span::before{
       content: "ஸ்ரீராம் குமாரன்";
-      /* color: var(--primary-color); */
+      color: var(--primary-color);
       background: linear-gradient(45deg, hsl(0, 85%, 55%), hsl(286, 73%, 54%));
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
@@ -2870,6 +2883,6 @@ body{
       5%,20%,25%,40%,45%,60%,65%,80%,85%{
          width: calc(100% + 8px);
       }
-   }
+   } */
 
 }
